@@ -1,7 +1,7 @@
 import React from "react";
 import { Route, Routes } from "react-router-dom";
 import { Box } from "@mui/material";
-import ExerciseDetail from "./Components/ExerciseDetail";
+import ExerciseDetail from "./Pages/ExerciseDetail";
 import Navbar from "./Components/Navbar";
 import Home from "./Pages/Home";
 import Footer from "./Components/Footer";
